@@ -12,6 +12,11 @@ Broadcast Discord Bot Sent To All User With A Single Command
 
 4-install .env ("dotenv") Node modules
 
+5- Turn On This At Discord Devolper Portal![image](https://github.com/user-attachments/assets/38831b1f-ac9f-40f3-aafb-38733021ed88)
+![image](https://github.com/user-attachments/assets/7f16ab1c-f6c8-4b6a-9bec-aece7136a5a5)
+
+
+
 # Installing
 
 > OneLine
@@ -28,6 +33,10 @@ npm install discord.js
 npm install dotenv
 
 ```
+# Use
+
+Use !help For Commands
+
 # About
 
 That Project Made By 9R3A
