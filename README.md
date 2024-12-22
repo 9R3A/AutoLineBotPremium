@@ -1,6 +1,6 @@
 # AutoLineBotPremium
 
-Broadcast Discord Bot Sent To All User With A Single Command
+A Simple Discord Bot Autonatic Auto Line After Anything Got Sent
 
 # Requirment
 
